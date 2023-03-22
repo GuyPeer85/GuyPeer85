@@ -1,4 +1,4 @@
-<p align="center"><img src="<iframe src="https://giphy.com/embed/W35DnRbN4oDHIAApdk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rickandmorty-season-1-adult-swim-rick-and-morty-W35DnRbN4oDHIAApdk">via GIPHY</a></p>" width="400"/></p>
+<p align="center"><img src="https://smart.giphy.com/smart/rickandmorty-season-1-adult-swim-rick-and-morty-W35DnRbN4oDHIAApdk" width="400"/></p>
 
 # Hi there 👋 I'm Guy Peer #
 
