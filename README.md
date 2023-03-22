@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media3.giphy.com/media/W35DnRbN4oDHIAApdk/giphy.gif?cid=ecf05e47unhvjxblnt24bciysf0kwrbrzg2ujc1tmzkslsa0&rid=giphy.gif&ct=g" width="400"/></p>
 
-# Hi there 👋 I'm Guy Peer #
+# Hi there 👋 I'm Guy Peer an DevOps Engineer #
 
 <a href="https://www.linkedin.com/in/guypeer-devops/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -36,4 +36,4 @@
 - 👯 I’m looking to collaborate on DevOps issues
 - 💬 Ask me about anything
 - 📫 How to reach me: With a smile and/or linkedin
-- ⚡ Fun fact: "Try not to become a man of success, but rather try to become a man of value." - Albert Einstein.
+- ⚡ Fun fact: "We cannot solve our problems with the same thinking we used when we created them." - Albert Einstein.
